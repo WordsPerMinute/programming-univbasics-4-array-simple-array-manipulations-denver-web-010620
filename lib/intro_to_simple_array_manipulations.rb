@@ -31,5 +31,5 @@ def using_insert (array, newElement)
 end
 
 def using_uniq(array)
-  array.usiq 
+  array.uniq
 end
